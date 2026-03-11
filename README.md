@@ -211,4 +211,4 @@ MIT License — see the LICENSE file.
 
 Built from a community-first idea to speed up discovering and evaluating open-source projects. Contributions and feedback welcome.
 
-Made with ❤️ by the OpenSource - Navigator AI contributors.
+Made with ❤️ by the OpenSource - Navigator AI.
