@@ -1,0 +1,9 @@
+{
+  "name": "DevDiscovery AI",
+  "short_name": "DevDiscovery",
+  "description": "AI-powered platform for discovering and evaluating open-source projects",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a"
+} 
