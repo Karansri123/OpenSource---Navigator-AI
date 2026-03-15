@@ -11,7 +11,7 @@ const Header: React.FC = () => {
               className="text-2xl md:text-3xl font-bold text-pink-400 hover:text-pink-300 transition-colors duration-300"
               style={{ textShadow: '0 1px 3px rgba(236, 72, 153, 0.4)' }}
             >
-              OpenSource - Navigator AI <span className="text-purple-400">AI</span>
+              OpenSource - Navigator  <span className="text-purple-400">AI</span>
             </h1>
           </div>
           <p className="text-sm text-purple-200 hidden md:block">
